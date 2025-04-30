@@ -103,7 +103,6 @@ npm install
 3. Add your `.env` file
 
 ```bash
-touch .env
 # Then paste your API key as shown above
 ```
 
@@ -123,10 +122,8 @@ http://localhost:5173/
 
 ## 📸 Screenshot
 
-Example:
-```
-![Weather App Screenshot](your-screenshot-url-here)
-```
+
+![Weather App Screenshot](https://github.com/bismah-nasir/weather-app/blob/7897f546503307a12840cc87147a264219722bb1/weather-project-ss.PNG)
 
 ---
 
@@ -136,3 +133,8 @@ Example:
 - Icons and images used in this project are locally stored in `/assets`.
 
 ---
+
+## 🙏 Credits
+
+This project is inspired by a YouTube tutorial.  
+📺 [Weather App using ReactJS](https://youtu.be/zs1Nq2s_uy4?si=TC9HKBN5BnLEogvd) by `GreatStack`
